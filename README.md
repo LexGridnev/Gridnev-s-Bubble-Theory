@@ -7,8 +7,8 @@ This is a Python implementation of the Bubble Theory of Gridnev (BTG), a theoret
 * Center coordinates
 * Radius
 * Vector that describes the direction of view within the bubble
-* 
-###This implementation includes the following functions:
+ 
+### This implementation includes the following functions:
 
 * init_bubbles: initializes a set of bubbles with random coordinates, radii, and view vectors.
 * update_bubbles: updates the coordinates of the bubbles based on their view vectors and a given time step dt.
