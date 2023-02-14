@@ -42,6 +42,6 @@ Acknowledgments
 
 The Bubble Theory of Gridnev was proposed by Russian philosopher and mathematician Alexey Gridnev. This implementation is based on the ideas presented in his work.
 
-References
-Gridnev, A. (2003). Bubble Theory of Consciousness. Vanaheimr: Respublika.
-Delaunay triangulation: https://en.wikipedia.org/wiki/Delaunay_triangulation
+## References
+- Gridnev, A. (2003). Bubble Theory of Consciousness. Vanaheimr: Respublika.
+- Delaunay triangulation: https://en.wikipedia.org/wiki/Delaunay_triangulation
