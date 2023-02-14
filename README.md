@@ -1,6 +1,7 @@
 # Bubble Theory of Gridnev (BTG) - Python Implementation
 This is a Python implementation of the Bubble Theory of Gridnev (BTG), a theoretical framework that describes subjective reality as a set of interconnected bubbles. Each bubble represents a person's perception of reality, and the intersections between bubbles represent shared experiences.
-![Bubble portal](https://github.com/LexGridnev/Gridnev-s-Bubble-Theory/blob/main/345edbbbc7684b86880d80404dab5f00.jpeg)
+
+
 ### The main characteristics of a bubble in the BTG are:
 
 * Center coordinates
@@ -44,3 +45,5 @@ The Bubble Theory of Gridnev was proposed by Russian philosopher and mathematici
 ## References
 - Gridnev, A. (2003). Bubble Theory of Consciousness. Vanaheimr: Respublika.
 - Delaunay triangulation: https://en.wikipedia.org/wiki/Delaunay_triangulation
+
+![Bubble portal](https://github.com/LexGridnev/Gridnev-s-Bubble-Theory/blob/main/345edbbbc7684b86880d80404dab5f00.jpeg)
