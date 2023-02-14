@@ -21,7 +21,9 @@ The BTG is based on the Delaunay triangulation, which ensures that the bubbles a
 
 # Usage
 
-To use this implementation of the BTG, simply run the main.py script. By default, the script initializes 10 bubbles and animates their movements for a total of 10 seconds. The resulting animation is saved in the output folder as a .gif file.
+To use this implementation of the BTG, 
+#### simply run the main.py script.
+By default, the script initializes 10 bubbles and animates their movements for a total of 10 seconds. The resulting animation is saved in the output folder as a .gif file.
 
 You can customize the number of bubbles and the duration of the animation by changing the num_bubbles and duration variables in the script. You can also customize the appearance of the bubbles and the animation by modifying the relevant Matplotlib parameters in the draw_bubbles and animate_bubbles functions.
 
