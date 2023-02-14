@@ -1,3 +1,13 @@
+'''
+This Python code defines a Bubble class and initializes a number of random bubbles, represented as instances of the Bubble class.
+The script performs Delaunay triangulation on the centers of the bubbles, and animates the bubbles while showing the triangulation. 
+The animation simulates the movement of the bubbles by updating their center, radius, and view_vector attributes in a random fashion over time. 
+The triangulation is redrawn at each update frame, and the bubbles are redrawn based on their updated attributes. 
+The final output is an animation of the moving bubbles with the Delaunay triangulation overlaid.
+'''
+
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
